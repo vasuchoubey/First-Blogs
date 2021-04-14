@@ -1,20 +1,22 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+title: Java_Script
+date: "2021-01-16T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
+The five JavaScript frameworks that currently dominate the market in terms of popularity and usage are:
+•	React
+•	Vue
+•	Angular
+•	Ember
+•	Backbone.js
+![image](https://user-images.githubusercontent.com/54213137/114766857-8eaedb00-9d84-11eb-8e12-a1e68f018b88.png)
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
 
-## On deer horse aboard tritely yikes and much
+## React
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+React is the definite leader in the JS world. This JavaScript framework uses a reactive approach and also introduces many of its own concepts for front-end web development.
+To use React , you’ll have to learn to use a plethora of additional tools to reach high flexibility in front-end development. For example,here's a less exhaustive list of libraries you can use with React: Redux, MobX, Fluxy, Fluxible, or RefluxJS. React can also be used with jQuery AJAX, fetch API, Superagent, and Axios.
+
 
 - This however showed weasel
 - Well uncritical so misled
