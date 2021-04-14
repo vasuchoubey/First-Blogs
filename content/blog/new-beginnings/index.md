@@ -1,7 +1,7 @@
 ---
 title: Java_Script
 date: "2021-01-16T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: JavaScript frameworks are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications.
 ---
 The five JavaScript frameworks that currently dominate the market in terms of popularity and usage are:
 •	React
