@@ -16,6 +16,8 @@ The five JavaScript frameworks that currently dominate the market in terms of po
 
 React is the definite leader in the JS world. This JavaScript framework uses a reactive approach and also introduces many of its own concepts for front-end web development.
 To use React , you’ll have to learn to use a plethora of additional tools to reach high flexibility in front-end development. For example,here's a less exhaustive list of libraries you can use with React: Redux, MobX, Fluxy, Fluxible, or RefluxJS. React can also be used with jQuery AJAX, fetch API, Superagent, and Axios.
+![image](https://user-images.githubusercontent.com/54213137/116227283-98b3df00-a771-11eb-8610-8b4032cb86c0.png)
+
 
 
 
@@ -31,6 +33,9 @@ Angular's flexibility is commendable. That’s why Angular's 1.x versions are st
  of its MVC architecture which has changed substantially to a component based architecture.  
 Angular has a couple of additional challenges. You're almost obliged to use TypeScript to ensure type safety in Angular apps. TypeScript makes the Angular 2 framework not so pleasant to work with.
 
+![image](https://user-images.githubusercontent.com/54213137/116227445-c8fb7d80-a771-11eb-8003-66858354c591.png)
+
+
 
 
 ### 3. Vue
@@ -39,9 +44,7 @@ The Snyk JavaScript framework report for 2019 is out. The report mainly focused 
 The concept of Vue has been taken from Angular and React, but Vue is better in many ways. I’ll talk about its features, but
 first check out what the Synk report says about Vue's front-end security. Vue has been downloaded 40 million times this year
 and records only four direct vulnerabilities. All of them have been fixed
-
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVue.js&psig=AOvVaw0g-8yu0OyiixWlJBe2jYUy&ust=1619605130210000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiIkMKZnvACFQAAAAAdAAAAABAD)
-
+![image](https://user-images.githubusercontent.com/54213137/116227346-aa958200-a771-11eb-968c-dee42b04b4b5.png)
 
 
 
@@ -53,7 +56,8 @@ of the oldest JavaScript frameworks.
 But with the new update, Ember 3.13 is compatible with new bug fixes, performance improvements, and deprecation. Tracked property updates have also been 
 introduced that allow simpler ways of tracking state change in the ergonomic system of Ember apps..
 
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Femberjs.com%2Fimages%2Ftomsters%2Fteaching-reverse.png&imgrefurl=https%3A%2F%2Femberjs.com%2Flearn%2F&tbnid=lMrfUhgUgz7RsM&vet=12ahUKEwicqPu8mp7wAhWB2XMBHWAjDoUQMygDegUIARC8AQ..i&docid=bPaBJ3f1ie4SyM&w=822&h=694&q=amberjs%20image%20js&ved=2ahUKEwicqPu8mp7wAhWB2XMBHWAjDoUQMygDegUIARC8AQ)
+![image](https://user-images.githubusercontent.com/54213137/116227505-dadd2080-a771-11eb-9fbe-abde5c0cd018.png)
+
 
 
 ##### 5. Backbone.js
@@ -63,4 +67,7 @@ Backbone is an easy to use JavaScript framework that allows for quick developmen
  to choose tools: Chaplin, Marionette, Thorax, Handlebars or Mustache, and so on.
 If you need to design an app that has different types of users, Backbone collections (arrays) can be used here to separate the models. Backbone.Events can be used 
 with Backbone models, collections, routes, and views
+
+![image](https://user-images.githubusercontent.com/54213137/116227605-f5af9500-a771-11eb-8885-523fa92d6e6d.png)
+
 
