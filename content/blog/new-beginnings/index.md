@@ -16,7 +16,8 @@ The five JavaScript frameworks that currently dominate the market in terms of po
 
 React is the definite leader in the JS world. This JavaScript framework uses a reactive approach and also introduces many of its own concepts for front-end web development.
 To use React , you’ll have to learn to use a plethora of additional tools to reach high flexibility in front-end development. For example,here's a less exhaustive list of libraries you can use with React: Redux, MobX, Fluxy, Fluxible, or RefluxJS. React can also be used with jQuery AJAX, fetch API, Superagent, and Axios.
-![image](https://user-images.githubusercontent.com/54213137/116227283-98b3df00-a771-11eb-8610-8b4032cb86c0.png)
+
+![image](https://user-images.githubusercontent.com/54213137/116228208-99994080-a772-11eb-80ce-779ac2a2b85f.png))
 
 
 
@@ -44,7 +45,7 @@ The Snyk JavaScript framework report for 2019 is out. The report mainly focused 
 The concept of Vue has been taken from Angular and React, but Vue is better in many ways. I’ll talk about its features, but
 first check out what the Synk report says about Vue's front-end security. Vue has been downloaded 40 million times this year
 and records only four direct vulnerabilities. All of them have been fixed
-![image](https://user-images.githubusercontent.com/54213137/116227346-aa958200-a771-11eb-968c-dee42b04b4b5.png)
+![image](https://user-images.githubusercontent.com/54213137/116227986-5939c280-a772-11eb-8c78-5182fe5f380a.png)
 
 
 
@@ -68,6 +69,6 @@ Backbone is an easy to use JavaScript framework that allows for quick developmen
 If you need to design an app that has different types of users, Backbone collections (arrays) can be used here to separate the models. Backbone.Events can be used 
 with Backbone models, collections, routes, and views
 
-![image](https://user-images.githubusercontent.com/54213137/116227605-f5af9500-a771-11eb-8885-523fa92d6e6d.png)
+![image](https://user-images.githubusercontent.com/54213137/116228047-6b1b6580-a772-11eb-9c27-7b67d7e31b5e.png)
 
 
