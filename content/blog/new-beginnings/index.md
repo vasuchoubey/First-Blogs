@@ -12,99 +12,55 @@ The five JavaScript frameworks that currently dominate the market in terms of po
 ![image](https://user-images.githubusercontent.com/54213137/114766857-8eaedb00-9d84-11eb-8e12-a1e68f018b88.png)
 
 
-## React
+## 1.React
 
 React is the definite leader in the JS world. This JavaScript framework uses a reactive approach and also introduces many of its own concepts for front-end web development.
 To use React , you’ll have to learn to use a plethora of additional tools to reach high flexibility in front-end development. For example,here's a less exhaustive list of libraries you can use with React: Redux, MobX, Fluxy, Fluxible, or RefluxJS. React can also be used with jQuery AJAX, fetch API, Superagent, and Axios.
 
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+### 2. Angular 2 to Angular 9
 
-### Overlaid the jeepers uselessly much excluding
+Angular 9 will mark a turning point revealed by the Angular team at the recent AngularConnect 2019. According to the update, the team
+is planning to make the Angular Ivy compiler available for all apps. The main benefit of Angular Ivy is that it is able to reduce the
+size of applications.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+Angular today has become very advanced and modular to use for front-end development. Previously you could insert a link to the AngularJS library in 
+the main HTML file, but now you can do the same by installing separate modules.
+Angular's flexibility is commendable. That’s why Angular's 1.x versions are still in demand. However, many developers currently rely on Angular 2+ because
+ of its MVC architecture which has changed substantially to a component based architecture.  
+Angular has a couple of additional challenges. You're almost obliged to use TypeScript to ensure type safety in Angular apps. TypeScript makes the Angular 2 framework not so pleasant to work with.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-### According a funnily until pre-set or arrogant well cheerful
+### 3. Vue
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+The Snyk JavaScript framework report for 2019 is out. The report mainly focused on security risks in both React and Angular.
+The concept of Vue has been taken from Angular and React, but Vue is better in many ways. I’ll talk about its features, but
+first check out what the Synk report says about Vue's front-end security. Vue has been downloaded 40 million times this year
+and records only four direct vulnerabilities. All of them have been fixed
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVue.js&psig=AOvVaw0g-8yu0OyiixWlJBe2jYUy&ust=1619605130210000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiIkMKZnvACFQAAAAAdAAAAABAD)
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
 
-#### Silent delightfully including because before one up barring chameleon
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+#### 4. Ember
+Ember 3.13 released this year with some new updates and features. Ember is just like Backbone and AngularJS, and is also one 
+of the oldest JavaScript frameworks.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+But with the new update, Ember 3.13 is compatible with new bug fixes, performance improvements, and deprecation. Tracked property updates have also been 
+introduced that allow simpler ways of tracking state change in the ergonomic system of Ember apps..
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Femberjs.com%2Fimages%2Ftomsters%2Fteaching-reverse.png&imgrefurl=https%3A%2F%2Femberjs.com%2Flearn%2F&tbnid=lMrfUhgUgz7RsM&vet=12ahUKEwicqPu8mp7wAhWB2XMBHWAjDoUQMygDegUIARC8AQ..i&docid=bPaBJ3f1ie4SyM&w=822&h=694&q=amberjs%20image%20js&ved=2ahUKEwicqPu8mp7wAhWB2XMBHWAjDoUQMygDegUIARC8AQ)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
 
-###### Slapped cozy a that lightheartedly and far
+##### 5. Backbone.js
+Backbone is a JavaScript framework based on the MVC architecture. In Backbone.js, the View of MVC helps implement component logic similarly to a Controller. 
+Backbone view can use engines like Mustache and Underscore.js.
+Backbone is an easy to use JavaScript framework that allows for quick development of single page applications. To use Backbone.js to the fullest extent, you’ll have
+ to choose tools: Chaplin, Marionette, Thorax, Handlebars or Mustache, and so on.
+If you need to design an app that has different types of users, Backbone collections (arrays) can be used here to separate the models. Backbone.Events can be used 
+with Backbone models, collections, routes, and views
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
