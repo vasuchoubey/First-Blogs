@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `What is FrameWork?Type Of Web FrameWork`,
+    title: `Type Of Web FrameWork`,
     author: {
       name: `Vasu Choubey`,
       summary: `who lives and learn in Delhi building useful things.`,
