@@ -1,10 +1,10 @@
 ---
 title: Python!
-date: "2021-01-18T23:46:37.121Z"
+date: "2021-01-16T22:40:32.169Z"
 ---
 Python Web framework is a collection of packages or modules that allow developers to write Web applications or services
+![image](https://user-images.githubusercontent.com/54213137/116380071-40dcad00-a831-11eb-94f0-9ce478da712c.png)
 
-![image](https://user-images.githubusercontent.com/54213137/116364051-6a8dd800-a821-11eb-8ef2-470810753425.png)
 
 
 ### Django
@@ -24,12 +24,16 @@ It is an MVC web framework with ORM with real multi-database support and support
 t system to simplify the development of AJAX apps. You may additionally install its template engine Kajiki.
 Learn: How to Install Python on Windows
 TurboGears is a microframework and a full-stack solution. It’s PyPI package is called tg.devtools.
+![image](https://user-images.githubusercontent.com/54213137/116380269-6e295b00-a831-11eb-9b04-9a5435fbb426.png)
+
 
 ### Web2py
 Python Web Framework — Python web2py
 With web2py, you can develop, deploy, debug, test, administer the database, and maintain applications via the provided web interface.
  It has no configuration files, and you can even run it off a USB drive.
 web2py uses the MVC built-in ticketing system to manage errors.
+![image](https://user-images.githubusercontent.com/54213137/116380570-b5175080-a831-11eb-94e0-0e0e97b8f1e1.png)
+
 
 ### Django-hotsauce
 Django-hotsauce is a general-purpose web toolkit that sits on top of Django and other frameworks. It is an interactive Pythonic API
@@ -43,7 +47,7 @@ A strict MVC framework that strictly separates Model, View and Controller elemen
 Web developers, and sysadmins can work independently. It also includes controller modules that allow you to build 
 applications on top of the web, irc or the command line.These are all the most popular Python web framework.
 
-g. Grok
+### Grok
 Grok was built on the existing Zope 3 libraries. It aims to provide an easier learning curve, and a more agile development experience 
 by emphasizing on convention over configuration and DRY (Don’t Repeat Yourself).
 
