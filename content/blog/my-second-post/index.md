@@ -1,6 +1,6 @@
 ---
 title: Python!
-date: "2021-01-018T23:46:37.121Z"
+date: "2021-01-18T23:46:37.121Z"
 ---
 Python Web framework is a collection of packages or modules that allow developers to write Web applications or services
 
