@@ -3,10 +3,10 @@ title: Python!
 date: "2021-01-16T22:40:32.169Z"
 ---
 Python Web framework is a collection of packages or modules that allow developers to write Web applications or services
-![image](https://user-images.githubusercontent.com/54213137/116380071-40dcad00-a831-11eb-94f0-9ce478da712c.png)
+![image](https://user-images.githubusercontent.com/54213137/116381166-45ee2c00-a832-11eb-9d48-4f5bc48e7cdc.png)
 
 
-
+## List of Some Frame Works:
 ### Django
 Django Python is a framework for perfectionists with deadlines. With it, you can build better Web apps in much less time, and in less code.  
 Django is known for how it focusses on automating. It also believes in the DRY (Don’t Repeat Yourself) principle.
